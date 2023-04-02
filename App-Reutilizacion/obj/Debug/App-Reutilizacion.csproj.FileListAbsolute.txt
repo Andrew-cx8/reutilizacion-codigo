@@ -1,0 +1,23 @@
+C:\Users\Andres\source\repos\App-Reutilizacion\bin\Debug\Recursos\bonk meme.mp4
+C:\Users\Andres\source\repos\App-Reutilizacion\bin\Debug\App-Reutilizacion.exe.config
+C:\Users\Andres\source\repos\App-Reutilizacion\bin\Debug\App-Reutilizacion.exe
+C:\Users\Andres\source\repos\App-Reutilizacion\bin\Debug\App-Reutilizacion.pdb
+C:\Users\Andres\source\repos\App-Reutilizacion\obj\Debug\App-Reutilizacion.csproj.AssemblyReference.cache
+C:\Users\Andres\source\repos\App-Reutilizacion\obj\Debug\App-Reutilizacion.csproj.SuggestedBindingRedirects.cache
+C:\Users\Andres\source\repos\App-Reutilizacion\obj\Debug\Interop.WMPLib.dll
+C:\Users\Andres\source\repos\App-Reutilizacion\obj\Debug\App-Reutilizacion.csproj.ResolveComReference.cache
+C:\Users\Andres\source\repos\App-Reutilizacion\obj\Debug\App_Reutilizacion.Form1.resources
+C:\Users\Andres\source\repos\App-Reutilizacion\obj\Debug\App_Reutilizacion.Properties.Resources.resources
+C:\Users\Andres\source\repos\App-Reutilizacion\obj\Debug\App-Reutilizacion.csproj.GenerateResource.cache
+C:\Users\Andres\source\repos\App-Reutilizacion\obj\Debug\App-Reutilizacion.csproj.CoreCompileInputs.cache
+C:\Users\Andres\source\repos\App-Reutilizacion\obj\Debug\App-Reutilizacion.exe
+C:\Users\Andres\source\repos\App-Reutilizacion\obj\Debug\App-Reutilizacion.pdb
+C:\Users\Andres\source\repos\App-Reutilizacion\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Andres\source\repos\App-Reutilizacion\obj\Debug\App_Reutilizacion.Windows_Media_Player.resources
+C:\Users\Andres\source\repos\App-Reutilizacion\bin\Debug\Interop.WMPLib.dll
+C:\Users\Andres\source\repos\App-Reutilizacion\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Andres\source\repos\App-Reutilizacion\bin\Debug\Interop.AcroPDFLib.dll
+C:\Users\Andres\source\repos\App-Reutilizacion\bin\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\Andres\source\repos\App-Reutilizacion\obj\Debug\Interop.AcroPDFLib.dll
+C:\Users\Andres\source\repos\App-Reutilizacion\obj\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\Andres\source\repos\App-Reutilizacion\obj\Debug\App_Reutilizacion.PDF_Reader.resources
